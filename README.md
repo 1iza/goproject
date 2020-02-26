@@ -1,2 +1,2 @@
-# goproject
-go project for test
+# syncAdapter
+
